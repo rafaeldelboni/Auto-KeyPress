@@ -7,3 +7,6 @@ D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\De
 D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\GenerateResource.write.1.tlog
 D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.exe
 D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.pdb
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.exe.config
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\ResGen.read.1.tlog
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\ResGen.write.1.tlog
