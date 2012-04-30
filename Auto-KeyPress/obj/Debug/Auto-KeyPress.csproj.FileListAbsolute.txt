@@ -1,0 +1,26 @@
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.exe
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.pdb
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto_KeyPress.Form1.resources
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto_KeyPress.Properties.Resources.resources
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.csproj.GenerateResource.Cache
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.exe
+C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.pdb
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.exe
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.pdb
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto_KeyPress.Properties.Resources.resources
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.exe
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.pdb
+C:\Users\RafaelDelboni\Desktop\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto_KeyPress.KPForm.resources
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.exe
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto-KeyPress.pdb
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\ResolveAssemblyReference.cache
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto_KeyPress.KPForm.resources
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\Auto_KeyPress.Properties.Resources.resources
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\GenerateResource.read.1.tlog
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\obj\Debug\GenerateResource.write.1.tlog
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.exe
+D:\Meus Documentos\Documentos\Projects\CSharp\Auto-KeyPress\Auto-KeyPress\bin\Debug\Auto-KeyPress.pdb
