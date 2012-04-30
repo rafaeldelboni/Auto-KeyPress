@@ -1,6 +1,0 @@
-Auto Key-Press
-Tested in Windows XP and 7
-
-This is a simple software that simulates and user pressing some F[n] button/key in a program or process.
-
-Rafael Delboni

@@ -1,8 +1,0 @@
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\bin\Debug\F5-KeyPress.exe
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\bin\Debug\F5-KeyPress.pdb
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\obj\Debug\F5_KeyPress.Form1.resources
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\obj\Debug\F5_KeyPress.Properties.Resources.resources
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\obj\Debug\F5-KeyPress.csproj.GenerateResource.Cache
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\obj\Debug\F5-KeyPress.exe
-C:\Documents and Settings\rafadel\Meus documentos\Visual Studio 2008\Projects\F5-KeyPress\F5-KeyPress\obj\Debug\F5-KeyPress.pdb
